@@ -1,6 +1,28 @@
-# WSO WEB SHELL 2018
-PHP 7 SUPPORTED
-<HR>
-<h2>ADDED TOOLS</H2>
-<HR>
-ADMINER + CONFIGS GRABBER + CGI TELNET + BACK CONNECT + MASS DEFACE + WP MASS TITLE EDIT + CPANEL GRABING + JUMPING
+
+  # WSO PHP WEB SHELL 2018
+  
+  # Tools
+  
+- [x] **Password login protection**
+- [x] **php 7.x supported**
+- [x] **Adminer**
+- [x] **Configs grabber + configs 404 + symlink config**
+- [x] **Cgi telnet**
+- [x] **Back connect**
+- [x] **Mass deface**
+- [x] **Wordpress mass title edit**
+- [x] **Server Infection possibility**
+- [x] **Cpanel grabber**
+- [x] **Jumping**
+- [x] **More useful features...**
+
+ ______________
+
+ __Password: hacker0882__
+ 
+ ______________
+ 
+
+### SCREENSHOT
+
+<img src="/screenshots/1.png" width="90%"></img> <img src="/screenshots/2.png" width="90%"></img>
